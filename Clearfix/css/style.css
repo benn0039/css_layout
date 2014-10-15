@@ -38,8 +38,9 @@ header, footer{
 }
 
 .col-2{
-    margin: 2rem 0;
+    margin: 10rem 0;
     outline: inherit;
+    background-color: yellow;
 }
 
 /***********************************
